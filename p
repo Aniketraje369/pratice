@@ -17,4 +17,4 @@ filter.lfs.required=true
 filter.lfs.clean=git-lfs clean -- %f
 filter.lfs.smudge=git-lfs smudge -- %f
 user.name=Aniket Raje
-user.email=72148306+Aniketraje369@users.noreply.github.com
+user.email="aniket@gmail.com"
